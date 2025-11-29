@@ -1,12 +1,13 @@
-**Jednoduchá kalkulačka**
+# Simple Calculator
 
-Tento projekt je jednoduchá **kalkulačka** vytvorená pomocou **HTML**, **CSS** a **JavaScriptu**.  
-Slúži ako cvičný projekt, kde som si precvičil prácu s DOM, štýlovaním a základnou logikou v JavaScripte.
+This project is a simple calculator built using **HTML**, **CSS**, and **JavaScript**.  
+It serves as a practice project where I improved my skills in DOM manipulation, styling, and basic JavaScript logic.
 
-✨ Funkcie
-- Sčítanie
-- Odčítanie
-- Násobenie
-- Delenie
-- Čistenie displeja
-- Podpora práce s myšou (kliknutie na tlačidlá)
+## ✨ Features
+
+- Addition  
+- Subtraction  
+- Multiplication  
+- Division  
+- Clear display  
+- Mouse interaction support (button clicks)
